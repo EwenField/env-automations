@@ -3,6 +3,7 @@
 This is a service discovery module
 """
 
-# main - the main function 
+
 def main():
+    '''main - the main function'''
     print("our servers are there")
